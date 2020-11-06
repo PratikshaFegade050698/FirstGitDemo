@@ -9,3 +9,4 @@ enhace 1-> Enhancement 1 .
 change 6-> on local master change WI8 to test rebase
 change 8-> By team mate on remote master to test rebase WI7
 change 9-> rebasing 
+change 10-> test simple pull operation from remote to local WI9 by 
